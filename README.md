@@ -35,20 +35,22 @@ Blogcraft/
 
 ## 🔑 Setup Instructions
 
-### 1️⃣ Clone the Repository
+1️⃣ Clone the Repository
 
 git clone https://github.com/YOUR-USERNAME/Blogcraft.git
 cd Blogcraft
-###2️⃣ Install Dependencies
+
+2️⃣ Install Dependencies
 pip install -r requirements.txt
-###3️⃣ Create apikey.py
+
+3️⃣ Create apikey.py
 Create a file named apikey.py in the root directory and add:
 
 python
 google_gemini_api_key = "YOUR_GOOGLE_GEMINI_API_KEY"
 huggingface_api_key = "YOUR_HUGGINGFACE_API_KEY"
 
-###4️⃣ Run the App
+4️⃣ Run the App
 streamlit run app.py
 
 ##📸 Screenshots
