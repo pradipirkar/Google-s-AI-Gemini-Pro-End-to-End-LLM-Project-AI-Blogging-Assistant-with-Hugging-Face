@@ -54,7 +54,7 @@ huggingface_api_key = "YOUR_HUGGINGFACE_API_KEY"
 streamlit run app.py
 
 ---
-##📸 Screenshots
+📸 Screenshots
 Main Interface
 <img width="1901" height="839" alt="Screenshot 2025-08-10 153137" src="https://github.com/user-attachments/assets/cf7dd3cf-25fa-4f76-bb55-2fff2aff2c12" />
 
@@ -66,13 +66,13 @@ AI-Generated Images
 
 ---
 
-##🌟 Use Cases
+🌟 Use Cases
 Content writers & bloggers looking to speed up blog creation.
 SEO specialists needing keyword-focused content.
 Small businesses wanting quick blog & visual assets.
 
 
-##💡 Future Improvements
+💡 Future Improvements
 Support for multiple AI models (GPT-4, Claude, etc.)
 
 Multi-language blog generation.
