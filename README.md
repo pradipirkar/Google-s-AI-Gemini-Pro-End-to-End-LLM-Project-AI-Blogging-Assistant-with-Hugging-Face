@@ -39,19 +39,19 @@ Blogcraft/
 
 git clone https://github.com/YOUR-USERNAME/Blogcraft.git
 cd Blogcraft
-2️⃣ Install Dependencies
+###2️⃣ Install Dependencies
 pip install -r requirements.txt
-3️⃣ Create apikey.py
+###3️⃣ Create apikey.py
 Create a file named apikey.py in the root directory and add:
 
 python
 google_gemini_api_key = "YOUR_GOOGLE_GEMINI_API_KEY"
 huggingface_api_key = "YOUR_HUGGINGFACE_API_KEY"
 
-4️⃣ Run the App
+###4️⃣ Run the App
 streamlit run app.py
 
-📸 Screenshots
+##📸 Screenshots
 Main Interface
 <img width="1901" height="839" alt="Screenshot 2025-08-10 153137" src="https://github.com/user-attachments/assets/cf7dd3cf-25fa-4f76-bb55-2fff2aff2c12" />
 
@@ -61,13 +61,13 @@ Generated Blog Example
 AI-Generated Images
 <img width="932" height="510" alt="image" src="https://github.com/user-attachments/assets/23ee253c-3194-446c-9159-cb0f74b730c7" />
 
-🌟 Use Cases
+##🌟 Use Cases
 Content writers & bloggers looking to speed up blog creation.
 SEO specialists needing keyword-focused content.
 Small businesses wanting quick blog & visual assets.
 
 
-💡 Future Improvements
+##💡 Future Improvements
 Support for multiple AI models (GPT-4, Claude, etc.)
 
 Multi-language blog generation.
