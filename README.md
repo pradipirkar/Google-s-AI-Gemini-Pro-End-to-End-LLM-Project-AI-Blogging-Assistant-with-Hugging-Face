@@ -1,8 +1,4 @@
 # Google-s-AI-Gemini-Pro-End-to-End-LLM-Project-AI-Blogging-Assistant-with-Hugging-Face
-AI-powered blog generator using Google Gemini for content creation and Hugging Face Stable Diffusion for image generation. Built with Streamlit for an interactive, user-friendly interface.
-
-# Blogcraft — Your AI Blog Writing Companion ✍️🖼️
-
 Blogcraft is an **AI-powered blog creation tool** that helps you generate high-quality blog posts and matching AI-generated images in minutes.  
 It uses **Google Gemini** for natural language content creation and **Hugging Face Stable Diffusion** for image generation, all wrapped in a sleek **Streamlit** web app.
 
@@ -31,13 +27,9 @@ It uses **Google Gemini** for natural language content creation and **Hugging Fa
 Blogcraft/
 
 -  app.py # Main Streamlit app
--  apikey.py # API keys file (DO NOT upload to GitHub)
+-  apikey.py # API keys file 
 -  requirements.txt # Required Python packages
 -  README.md # Project documentation
-
-yaml
-Copy
-Edit
 
 ---
 
